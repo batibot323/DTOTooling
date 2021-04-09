@@ -13,7 +13,7 @@ namespace DTOTooling
             string folderToParse = @"C:\Users\hanih\source\repos\DTOTooling\filesToParse";
             var myDTOTooling = new Ho.DTOTooling.Lib.DTOTooling(folderToParse, "results");
             myDTOTooling.ListDownPropertiesAndMethods();
-
+            myDTOTooling.ListIntersectionsBetweenPairs("CommonPropertiesBetweenPairs");
             return;
         }
     }
