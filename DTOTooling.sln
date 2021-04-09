@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31105.61
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTOTooling", "DTOTooling\DTOTooling.csproj", "{E7F266B0-21EE-42A4-A971-281C6292FA89}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ho.DTOTooling.Lib", "Ho.DTOTooling.Lib\Ho.DTOTooling.Lib.csproj", "{A91D9539-728F-43A8-A8DE-44ABFBD712FA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{E7F266B0-21EE-42A4-A971-281C6292FA89}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E7F266B0-21EE-42A4-A971-281C6292FA89}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E7F266B0-21EE-42A4-A971-281C6292FA89}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A91D9539-728F-43A8-A8DE-44ABFBD712FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A91D9539-728F-43A8-A8DE-44ABFBD712FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A91D9539-728F-43A8-A8DE-44ABFBD712FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A91D9539-728F-43A8-A8DE-44ABFBD712FA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
